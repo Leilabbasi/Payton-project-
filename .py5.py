@@ -17,4 +17,4 @@ print("i =" ,i, "j =",j , "k =",k )
 #i is 5, j is 3, and k is 7 => i=7 , j=3 , k=7
 #i is 5, j is 7, and k is 3 => i=5 , j=3 , k=3
 #i is 7, j is 3, and k is 5 => i=5 , j=3 , k=5 
-#i is 7, j is 5, and k is 3 => 
+#i is 7, j is 5, and k is 3 => i=7 , j=7 , k=3
